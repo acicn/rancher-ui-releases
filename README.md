@@ -5,7 +5,7 @@
 ## 如何打包
 
 ```
-./scripts/build-static -v 2.4.99999-rev5 -s -c https://cdn.jsdelivr.net/gh/acicn/rancher-ui-releases@2.4
+./scripts/build-static -v 2.4.99999-rev5 -s -c cdn.jsdelivr.net/gh/acicn/rancher-ui-releases@2.4.99999-rev5
 ```
 
 ## Credits
